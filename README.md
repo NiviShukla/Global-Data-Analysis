@@ -1,4 +1,4 @@
-# Global-Data-Analysis
+# Global-Data-Analysis (Using Microsoft Power Bi)
 Global Sales data set of different companies all over the world.
 Created Power Bi dashboard.
 
