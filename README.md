@@ -1,5 +1,6 @@
 # Global-Data-Analysis (Using Microsoft Power Bi)
 Global Sales data set of different companies all over the world.
+Data set is uploaded to github as globalsales_2016.xlsx
 Created Power Bi dashboard.
 
 **Why Power Bi?**
