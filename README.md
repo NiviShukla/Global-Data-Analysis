@@ -12,7 +12,9 @@ Microsoft Power BI is used to find insights within an organization's data. Power
 
 Data with no values deleted.
 
-Data conversion of `Postal Code` from alphabetical to numeric. These are some of the data conversions done in the data set.
+Data conversion of `Postal Code` from alphabetical to numeric. 
+
+These are some of the data conversions done in the data set.
 
 2. **Dashboard creation**
 
